@@ -1,20 +1,15 @@
 import os
-from rich.console import Console
-
-console = Console()
-
-""" [purple]
+"""
 ___  ____ _         _       _       _   _  __  
 |  \/  (_) |       | |     | |     | | | |/  | 
 | .  . |_| | _____ | | __ _| |__   | | | |`| | 
 | |\/| | | |/ / _ \| |/ _` | '_ \  | | | | | | 
 | |  | | |   < (_) | | (_| | | | | \ \_/ /_| |_
-\_|  |_/_|_|\_\___/|_|\__,_|_| |_|  \___/ \___/
-[/purple]                                               
+\_|  |_/_|_|\_\___/|_|\__,_|_| |_|  \___/ \___/                                            
                                                
-[green]created by: Criações Inesperadas
+created by: Criações Inesperadas
 powered by: devdeczin
-(obrigado por usar :), seu bosta) [/green]                                                        
+(obrigado por usar :) )                                                        
 """
 
 carlos = input("APERTE QUALQUER TECLA PARA CONTINUAR: ")
@@ -37,16 +32,16 @@ if opcao == "1":
 elif opcao == "2":
         os.system("git clone https://github.com/FDX100/Auto_Tor_IP_changer.git")
         os.system("cls")
-        os.system("cd Zero-attacker")
+        os.system("cd Auto_Tor_IP_changer")
 
 elif opcao == "3":
         os.system("git clone https://github.com/NitheshD05/Wifi-analyser.git")
         os.system("cls")
-        os.system("cd Zero-attacker")
+        os.system("cd Wifi-analyser")
 
 elif opcao == "4":
         os.system("git clone https://github.com/htr-tech/zphisher.git")
         os.system("cls")
-        os.system("cd Zero-attacker")
+        os.system("cd zphisher")
 else:
         print("RESPOSTA INVÁLIDA")
