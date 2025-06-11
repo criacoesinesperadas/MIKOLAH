@@ -1,0 +1,19 @@
+olá! essa e a versão V1 do "mikolah"
+projeto criado no dia 07/06/2025 por "Criações Inesperadas"
+e foi criado com a ajuda de "devdeczin"
+esse projeto foi feito por fins educativos
+Essa e a versão V1 com 4 opções!
+na versão V2 Terá Mais opções e talvez mais melhorias!
+Basicamente,esse projeto e um painel que disponibiliza outros paineis de hacking,ou seja um painel dos paineis
+Versões do Mikolah:
+\Mikolah BETA\ Criada em 07/06/2025
+\Mikolah V1\ Criada em 08/06/2025
+COMO USAR?
+aperte o play la no canto da tela no MIKOLAH.py
+aperte qualquer letra+Enter
+escolha o numero da sua opção e de Enter
+no seu terminal Digite Git Clone + o link que apareceu
+prontinho! agora para usar-los tem o tutorial nas pastas README.md que irão ir junto com as ferramentas
+obrigado por usar meu pequeno programa :)
+caso tenha alguma duvida me contate no discord @carlinhoscriminoso.
+Aproveita e me segue no YT:@Criaçõesinesperadas
